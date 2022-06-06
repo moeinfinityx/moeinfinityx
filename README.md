@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**moeinfinityx/moeinfinityx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm hosting my own [gitlab](https://git.sinomo.net/explore) instance. Most of my work are there.
+- 🪄 I'm a Deep Learning Alchemist. ⚗️ I brew models with GPUs.
+- 💬 I speak 🇨🇳 Chinese (Mandarin) 🇺🇸 English and a litte bit 🇯🇵 Japanese.
+- 📜 I mainly program in C/C++, Python, Golang and Rust.
+- 🧰 Experienced with:
+- - 🤖 Deep learning stack: PyTorch, PyTorch Geometric, DGL, TensorFlow, SciPy, Pandas, numpy.
+- - 📰 Full-stack web development: Flask, Tornado, Gin, React, Bootstrap.
+- - 👾 Graphics programming: OpenGL (3 and up), GLSL, Qt, imgui, glfw.
+- - 🪛 Linux system admin: iptables, docker, KVM, ceph.
+- - 📐 Other Tools: LaTeX, Blender, Cinema 4D, Affinity Designer, Affinity Photo, Unity, Unreal Engine.
+- 💪 Pro linux user. Arch Linux. Daily driving windows 11 🤪. Don't worry it's on KVM with PCI-E passthrough so theorically I'm still using linux.
+- ⚙️ Hardware enthusiast. Loves to collect weird devices.
+- 🔫 Gadgets in my atelier: ⌨️ Dumang DK6 🖱️ Logitech G903 🎛️ Stream Deck 🖥️ LG 27GN950 🖲️ 3DConnexion Spacemouse Enterprise.
+- 💻️ Asus Zenbook Pro Duo 💻️ Wacom companion 2 (retired) 📱 Samsung Galaxy Note 10 + 📱 iPad Pro 12.9 2019
+- 🖇️ SBCs: Raspberry Pi 4 (idle), M5Stack FIRE (ambient light and GIF screen), AtomU (bad usb).
+- 🗄️ Storing all my data in Ceph now. Was using ZFS.
+- 🎮️ I'm a gamer. I enjoy every categories of games. PCMR. 🖥️ Cinebench R23: 41946.
+- 🪐 Otaku.📺️ Watched too many anime.
+- Like: 🍰🍮🍨🧋☕️🦞🍖🌶️🍒🍓🥥
+- 📫 Feel free to contact me via email.
