@@ -4,7 +4,7 @@
 - 🪄 I'm a Deep Learning Alchemist. ⚗️ I brew models with GPUs.
 - 💬 I speak 🇨🇳 Chinese (Mandarin) 🇺🇸 English and a litte bit 🇯🇵 Japanese.
 - 📜 I mainly program in C/C++, Python, Golang and Rust.
-- 🧰 Experienced with:
+- 🧰 Have some experience with:
 - - 🤖 Deep learning stack: PyTorch, PyTorch Geometric, DGL, TensorFlow, SciPy, Pandas, numpy.
 - - 📰 Full-stack web development: Flask, Tornado, Gin, React, Bootstrap.
 - - 👾 Graphics programming: OpenGL (3 and up), GLSL, Qt, imgui, glfw.
